@@ -17,7 +17,7 @@ Skills: Problem Solving, Analytical Thinking, Communication
 👋 **Projects**
 
 Coding: [World Infant Mortality Analysis and Prediction](https://www.kaggle.com/code/adenikealonge/infant-mortality-analysis-and-prediction)
-Data Visualization: 
+Data Visualization: [HR Analytics](https://github.com/Adenike-Alonge/HR-Analytics/tree/main)
 
 👋 **Contact**
 
