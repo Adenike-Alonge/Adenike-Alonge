@@ -4,7 +4,7 @@ Hi there, I'm Adenike, a Data Analyst. I am passionate about analyzing Macro ind
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adenike-Alonge)](https://git.io/streak-stats)
 
 👋 **Current Work** 
-I currently work as a BD Analyst at Konsyg a SAAS Company in the Tech Industry.
+I currently work as a BD Analyst at Konsyg, a SAAS Company in the Tech Industry.
 My Team leader had this to say about me *“Adenike's ability to conduct thorough and insightful research sets her apart. She possesses a unique knack for delving into complex market trends, analyzing data, and deriving actionable insights that drive strategic decisions. Her research skills are not just academic; they are deeply practical, offering a roadmap for growth and innovation.”*
 
 👋 **Tools and Skills** 
