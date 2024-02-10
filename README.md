@@ -12,6 +12,7 @@ My Team leader had this to say about me *“Adenike's ability to conduct thoroug
 👋 **Tools and Skills** 
 
 Tools: PowerBI, Spreadsheets, Python, SQL
+
 Skills: Problem Solving, Analytical Thinking, Communication
 
 👋 **Projects**
