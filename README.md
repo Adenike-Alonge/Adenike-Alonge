@@ -11,15 +11,15 @@ My Team leader had this to say about me *“Adenike's ability to conduct thoroug
 
 🧰 **Tools and Skills** 
 
-Tools: PowerBI, Spreadsheets, Python, SQL
+📌Tools: PowerBI, Spreadsheets, Python, SQL
 
-Skills: Problem Solving, Analytical Thinking, Communication
+📌Skills: Problem Solving, Analytical Thinking, Communication
 
-📁 **Projects**
+🧮📈 **Projects**
 
-Coding🧮: [World Infant🚼 Mortality Analysis and Prediction](https://www.kaggle.com/code/adenikealonge/infant-mortality-analysis-and-prediction)
+📌Coding: [World Infant🚼 Mortality Analysis and Prediction](https://www.kaggle.com/code/adenikealonge/infant-mortality-analysis-and-prediction)
 
-Data Visualization📈: [HR Analytics](https://github.com/Adenike-Alonge/HR-Analytics/tree/main)
+📌Data Visualization: [HR Analytics](https://github.com/Adenike-Alonge/HR-Analytics/tree/main)
 
 ✉️ **Contact**
 
