@@ -1,5 +1,5 @@
 👋     **About Me**  
-▫️Hi there, I'm Adenike, a Data Analyst. I'm passionate about analyzing macro indicators and eager to use data and analytics to make contributions to the sustainable development and structural transformation of the health⚕️ sectors of developing countries.  
+▫️Hi there, I'm Adenike, a Data Analyst. I'm passionate about using data and machine learning to improve the socio-economic performance of and developing economies, with a particular emphasis on small businesses
 ▫️BSc in Economics
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adenike-Alonge)](https://git.io/streak-stats)
