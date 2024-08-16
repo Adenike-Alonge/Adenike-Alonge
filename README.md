@@ -1,5 +1,5 @@
 👋     **About Me**  
-▫️Hi there, I'm Adenike, a Data Analyst. I'm passionate about using data and machine learning to improve the key performance indicators of developing economies, with a particular emphasis on small businesses
+▫️Hi there, I'm Adenike, a Data Analyst. I'm passionate about using data and machine learning to improve the key performance indicators of Organizations.
 ▫️BSc in Economics
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adenike-Alonge)](https://git.io/streak-stats)
